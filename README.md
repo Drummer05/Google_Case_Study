@@ -33,7 +33,7 @@ While SQL was an initial consideration, file size constraints led to the adoptio
 - A unified annual view was constructed by binding the 12 monthly datasets.
 - Key operations involved data merging, column creation, and a series of data transformations and aggregations.
 
-> For an in-depth view of the R code and further analysis details, [click here](<Your_GitHub_Link_Here>).
+> For an in-depth view of the R code and further analysis details, [click here](<Data Cleaning and Analysis.R>).
 
 ## Analysis Summary
 Distinct patterns emerged when comparing annual members with casual riders:
