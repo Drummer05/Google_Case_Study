@@ -24,6 +24,7 @@ The core dataset stems from Cyclistic's ride-sharing archives. It provides an ex
 Data wrangling was executed using R. Key stages included:
 - Eradicating duplicate entries.
 - Managing missing values through either imputation or omission.
+- Dropping unncesesary columns from the dataset.
 - Transitioning time-centric fields into standardized date-time formats.
 
 ## R Programming Analysis
