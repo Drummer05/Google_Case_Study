@@ -12,7 +12,7 @@
 - [Tableau Dashboard](#tableau-dashboard)
 
 ## Project Overview
-This project delves into the bike-sharing patterns of Cyclistic, a prominent bike-sharing company in Chicago. Leveraging the R programming language, we derived insights accentuating the unique behaviors of Cyclistic's annual subscribers and casual riders. The end goal? Designing effective marketing strategies that convert occasional riders into dedicated annual subscribers.
+This project delves into the bike-sharing patterns of Cyclistic, a prominent bike-sharing company in Chicago. Leveraging the R programming language, I derived insights accentuating the unique behaviors of Cyclistic's annual subscribers and casual riders. The end goal? Designing effective marketing strategies that convert occasional riders into dedicated annual subscribers.
 
 ## Business Task
 Identify and understand the disparities in usage patterns between annual members and casual riders. By uncovering these nuances, Cyclistic is poised to design marketing campaigns that resonate with casual riders, nudging them towards annual memberships.
@@ -27,7 +27,7 @@ Data wrangling was executed using R. Key stages included:
 - Transitioning time-centric fields into standardized date-time formats.
 
 ## R Programming Analysis
-While SQL was an initial consideration, file size constraints led to the adoption of R for its efficiency and performance. The entire data analysis process in R is encapsulated in the [Data Cleaning and Analysis](<Your_GitHub_Link_Here>) file. For a quick overview:
+While SQL was an initial consideration, file size constraints led to the adoption of R for its efficiency and performance. The entire data analysis process in R is encapsulated in the [Data Cleaning and Analysis](<Data Cleaning and Analysis.R>) file. For a quick overview:
 - Libraries used include: `tidyverse`, `lubridate`, `hms`, `data.table`.
 - Monthly data files were ingested into R and stored in distinct data frames.
 - A unified annual view was constructed by binding the 12 monthly datasets.
