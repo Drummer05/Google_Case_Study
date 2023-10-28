@@ -76,7 +76,7 @@ A comparative study between annual members and casual riders unveiled distinct p
 
 ## Sharing Insights
 
-Dive into an engaging, interactive visualization of the analysis on the Tableau dashboard [here](https://public.tableau.com/app/profile/carlos.silveio/viz/PedalPatternsDivingIntoCyclisticsAnalytics/PedalPatternsDivingIntoCyclysticsAnalytics).
+Dive into an engaging, interactive visualization of the analysis[here](https://public.tableau.com/app/profile/carlos.silveio/viz/PedalPatternsDivingIntoCyclisticsAnalytics/PedalPatternsDivingIntoCyclysticsAnalytics).
 
 ## Recommendations
 
