@@ -11,7 +11,7 @@ Welcome to the Cyclistic Bike-Sharing Analysis project! This venture was part of
 - [Analysis](#analysis)
 - [Analysis Summary](#analysis-summary)
 - [Key Findings](#key-findings)
-- [Sharing Insights](#sharing-insights)
+- [Tableau Dashboard](#sharing-insights)
 - [Recommendations](#recommendations)
 
 ## Introduction
