@@ -74,9 +74,9 @@ A comparative study between annual members and casual riders unveiled distinct p
 - Saturdays witness the highest influx of riders, with casual riders taking the lead.
 - July emerges as the busiest month, with summer being the preferred season.
 
-## Sharing Insights
+## Sharing Insights ( Tableau Dashboard)
 
-Dive into an engaging, interactive visualization of the analysis on the Tableau dashboard [here](link-to-tableau-dashboard).
+Dive into an engaging, interactive visualization of the analysis on the Tableau dashboard [here](https://public.tableau.com/app/profile/carlos.silveio/viz/PedalPatternsDivingIntoCyclisticsAnalytics/PedalPatternsDivingIntoCyclysticsAnalytics).
 
 ## Recommendations
 
